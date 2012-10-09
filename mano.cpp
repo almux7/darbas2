@@ -9,7 +9,7 @@ int main()
 printf("Pirma programa tesiasi toliau! \n");
 =======
 printf("Pirma programanu va   bandoma daryti! \n");
-printf("vokiskais");
+printf("vokisks");
 
 >>>>>>> eksperimentai
 getch();
