@@ -8,7 +8,9 @@ int main()
 <<<<<<< HEAD
 printf("Pirma programa tesiasi toliau! \n");
 =======
-printf("Pirma programa bandoma daryti! \n");
+printf("Pirma programanu va   bandoma daryti! \n");
+printf("vokiskais");
+
 >>>>>>> eksperimentai
 getch();
 }
